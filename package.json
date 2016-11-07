@@ -1,0 +1,23 @@
+{
+  "name": "angular2-clock",
+  "version": "1.0.0",
+  "description": "A simple time or date display that updates by the minute if desired",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfredriksen/angular2-clock.git"
+  },
+  "keywords": [
+    "Angular2",
+    "Clock"
+  ],
+  "author": "Daniel Fredriksen <dfredriksen@cyint.technology> (CYINT Technologies)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfredriksen/angular-clock/issues"
+  },
+  "homepage": "https://github.com/dfredriksen/angular-clock#readme"
+}
